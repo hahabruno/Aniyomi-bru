@@ -1,0 +1,15 @@
+{
+    "name": "Bru Repo",
+    "version": 1,
+    "extensions": [
+        {
+            "name": "Hentaistube",
+            "pkg": "hentaistube",
+            "lang": "pt-BR",
+            "version": 1,
+            "apk": "apk/hentaistube.apk",
+            "icon": "icon/hentaistube.png",
+            "nsfw": true
+        }
+    ]
+}
